@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-label {
+  color: #333;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+

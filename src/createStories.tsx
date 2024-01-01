@@ -64,4 +64,5 @@ const createStories = {
   generateResponse,
 };
 
+generateResponse();
 export default createStories;

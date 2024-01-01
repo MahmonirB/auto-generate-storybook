@@ -27,7 +27,7 @@
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "create-stories": "npx ts-node -e \"import storyCreator from './src/createStories.tsx'; storyCreator.generateResponse()\""
+    "create-stories": "npx ts-node src/createStories.tsx"
   },
   "eslintConfig": {
     "extends": [

@@ -60,9 +60,4 @@ function writeFile(fileName: string, response: any) {
   }
 }
 
-const createStories = {
-  generateResponse,
-};
-
 generateResponse();
-export default createStories;
